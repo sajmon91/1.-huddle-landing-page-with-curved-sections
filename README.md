@@ -4,4 +4,4 @@
 
 ### Links
 
-- Live Site URL: [https://1huddle.netlify.app/](https://1huddle.netlify.app/){:target="_blank"}
+- Live Site URL: [https://1huddle.netlify.app/](https://1huddle.netlify.app){:target="_blank"}
